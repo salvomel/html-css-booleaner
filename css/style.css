@@ -1,0 +1,20 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}       
+
+/* HEADER */
+header {
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+    background-size: 25%;
+}
+
+header img {
+    width: 200px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
